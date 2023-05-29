@@ -1,0 +1,5 @@
+getgenv().running = false    --Set this false first, Then Set AC true after that you can turn running true
+getgenv().AC = false  -- if you set this off it will stop spamming clicking E
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ZenonRicherdo/DUDE/main/death"))()
+
+--MY POOP TASTY
